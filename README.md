@@ -1,5 +1,6 @@
 ### chrisy-ass-2-8
-Assignment 2-8 | Create a public Github repository containing: Modified sample codebase that was deployed to Elastic Beanstalk as the new version Readme file that includes the cli commands used to create the new version package bundle
+Assignment 2-8 
+Create a public Github repository containing: Modified sample codebase that was deployed to Elastic Beanstalk as the new version Readme file that includes the cli commands used to create the new version package bundle
 
 ### CLI commands to create the new version package bundle
 ```
@@ -11,6 +12,14 @@ unzip python.zip
 nano application.py
 zip -d python.zip application.py
 zip python.zip application.py
+
+git clone https://github.com/yeoHomeyeo/chrisy-ass-2-8.git
+cp application.py chrisy-ass-2-8
+cd chrisy-ass-2-8
+git add .
+git commit -m "only application.py"
+git push
+
 ```
 
 ### The modified code
