@@ -17,7 +17,7 @@ zip python.zip application.py
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>**Sample app in Development Environment by Chris Yeo**</h1>
+    <h1>Sample app in Development Environment by Chris Yeo</h1>
     <p>Your first AWS Elastic Beanstalk Python Application is now running on your own dedicated environment in the AWS Cloud</p>
     <p>This environment is launched with Elastic Beanstalk Python Platform</p>
   </div>
